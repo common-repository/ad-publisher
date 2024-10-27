@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AD Publisher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 12:32+0400\n"
+"PO-Revision-Date: 2019-03-13 12:33+0400\n"
+"Last-Translator: admin <jokerov@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/classes/class-backend.php:30 includes/classes/class-backend.php:31
+#: includes/classes/class-backend.php:42 includes/classes/class-backend.php:101
+msgid "AD Publisher"
+msgstr "AD Publisher"
+
+#: includes/classes/class-backend.php:32 includes/classes/class-backend.php:33
+#: includes/views/modules.php:7
+msgid "Создать блок"
+msgstr "Add New Ad"
+
+#: includes/classes/class-backend.php:34
+msgid "Изменить блок"
+msgstr "Edit Ad"
+
+#: includes/classes/class-backend.php:35
+msgid "Новый блок"
+msgstr "New Ad"
+
+#: includes/classes/class-backend.php:36
+msgid "Просмотр"
+msgstr "View Ad"
+
+#: includes/classes/class-backend.php:37
+msgid "Искать"
+msgstr "Search Ad"
+
+#: includes/classes/class-backend.php:38
+msgid "Не найдено"
+msgstr "No Ad Found"
+
+#: includes/classes/class-backend.php:39
+msgid "Не найдено в корзине"
+msgstr "No Ad Found In Trash"
+
+#: includes/classes/class-backend.php:83 includes/views/settings.php:21
+msgid "Настройки"
+msgstr "Settings"
+
+#: includes/classes/class-backend.php:86
+msgid "Новый блок"
+msgstr "New Advert"
+
+#: includes/classes/class-backend.php:220
+msgid "Отключить блок"
+msgstr "Disable Adverts"
+
+#: includes/classes/class-backend.php:224
+msgid ""
+"Check this option if you wish to disable all Post Ads from displaying on "
+"this content."
+msgstr "Check this option to disable all Post Ads in this content."
+
+#: includes/classes/class-module-manager.php:29
+msgid "Модуль не найден"
+msgstr "Module Not Found"
+
+#: includes/classes/class-module-manager.php:41
+msgid "Модуль успешно деактивирован"
+msgstr "Module Was Successfully Deactivated"
+
+#: includes/classes/class-module-manager.php:48
+msgid "Ошибка при активации плагина"
+msgstr "Activation Failed"
+
+#: includes/classes/class-module-manager.php:52
+#: includes/classes/class-module-manager.php:83
+msgid "Модуль успешно активирован"
+msgstr "Module Was Successfully Activated"
+
+#: includes/classes/class-module-manager.php:76
+msgid "Ошибка при установке модуля"
+msgstr "Installation Failed"
+
+#: includes/classes/class-module-manager.php:91
+msgid "Модули"
+msgstr "Modules"
+
+#: includes/classes/class-module-manager.php:113
+msgid ""
+"Вставляйте рекламный или любой другой код в записи на страницы или в виджеты "
+"вашего сайта, с помощью шорткодов"
+msgstr ""
+"Insert the ad code or any other code to the posts, pages or your website "
+"widgets using the shortcodes"
+
+#: includes/classes/class-module-manager.php:123
+msgid ""
+"Позволяет в 2-3 раза увеличить число кликов по рекламме благодаря блокировке "
+"части статьи и подстановке рекламмного блока"
+msgstr ""
+"Get 2-3 times more clicks on ads by blocking a part of the post and "
+"inserting an ad unit"
+
+#: includes/classes/class-module-manager.php:132
+msgid ""
+"Увеличивает число кликов на рекламу благодаря прилипающему к верхней части "
+"экрана рекламному блоку"
+msgstr "Increase clicks on the ad by sticking it to the top side of the screen"
+
+#: includes/views/adp-post-metabox.php:37
+msgid "Заголовок:"
+msgstr "Advert Title:"
+
+#: includes/views/adp-post-metabox.php:44
+msgid "Рекламный код:"
+msgstr "Advert Code:"
+
+#: includes/views/adp-post-metabox.php:51
+msgid "Показывать рекламу:"
+msgstr "Display the advert:"
+
+#: includes/views/adp-post-metabox.php:59
+msgid "До контента"
+msgstr "Before Content"
+
+#: includes/views/adp-post-metabox.php:62
+msgid "Рекламный блок будет размещен сразу после заголовка статьи."
+msgstr "The ad block will be placed right after the post title."
+
+#: includes/views/adp-post-metabox.php:71
+msgid "После контента"
+msgstr "After Content"
+
+#: includes/views/adp-post-metabox.php:74
+msgid "Рекламный блок будет размещен сразу после последнего параграфа статьи."
+msgstr ""
+"The ad block will be placed right after the last paragraph of the post."
+
+#: includes/views/adp-post-metabox.php:84
+msgid "После параграфа"
+msgstr "After Paragraph No"
+
+#: includes/views/adp-post-metabox.php:90
+msgid "Рекламный блок будет размещен после указанного параграфа."
+msgstr "The ad block will be placed right after the predefined paragraph.."
+
+#: includes/views/adp-post-metabox.php:100
+msgid "Десктоп"
+msgstr "Desktop"
+
+#: includes/views/adp-post-metabox.php:106
+msgid "Мобильные"
+msgstr "Mobile"
+
+#: includes/views/adp-post-metabox.php:111
+msgid "Выберите тип устройств на котрых будет показываться рекламный блок."
+msgstr "Select the device type to show the ad unit."
+
+#: includes/views/adp-post-metabox.php:112
+msgid ""
+"Если отметить оба типа, рекламный блок будет показываться и на компьютерах и "
+"на мобильных устройствах."
+msgstr ""
+"Check both, if you want to display the ad block on desktop and mobile "
+"devices."
+
+#: includes/views/adp-post-metabox.php:123
+msgid "CTR инструменты"
+msgstr "CTR Tools"
+
+#: includes/views/adp-post-metabox.php:124
+msgid "только для мобильных"
+msgstr "mobile only"
+
+#: includes/views/adp-post-metabox.php:133
+msgid "CTR Booster (premium)"
+msgstr "CTR Booster (premium)"
+
+#: includes/views/adp-post-metabox.php:135
+msgid "Текст кнопки"
+msgstr "Button text"
+
+#: includes/views/adp-post-metabox.php:136
+msgid "Продолжить чтение"
+msgstr "Continue reading"
+
+#: includes/views/adp-post-metabox.php:140
+msgid ""
+"Увеличивает CTR рекламного блока на 200% путем перекрытия части контента и "
+"подстановки рекламного блока.<br />\r\n"
+"\t\t\tРекомендуем не более двух CTR Booster на страницу."
+msgstr ""
+"Increase the ad block's CTR on 200% by hiding a part of the article and "
+"showing the ad block. <br />\r\n"
+"\t\t\t Recommend using maximum 2 ad units per page."
+
+#: includes/views/adp-post-metabox.php:152
+msgid "Sticky Ads (premium)"
+msgstr "Sticky Ads (premium)"
+
+#: includes/views/adp-post-metabox.php:155
+msgid "Показывать на"
+msgstr "Display on"
+
+#: includes/views/adp-post-metabox.php:160
+msgid ""
+"Прикрепляет рекламный блок в верхней части экрана на установленное "
+"количество пикселей прокрутки.<br />\r\n"
+"\t\t\tРекомендуем установить 600 - 800 px."
+msgstr ""
+"Sticks the ad unit to the top of the screen for the predefined number of "
+"pixels scrolled.<br />\r\n"
+"\t\t\t Recommended value: 600-800 px."
+
+#: includes/views/adp-post-metabox.php:169
+msgid ""
+"*Не рекомендуем сочетать инструменты STR Booster и Sticky Ads в одном "
+"блоке. Подробнее о методах использования инструментов повышения CTR  на"
+msgstr ""
+"*We don't recommend you combining CTR Booster and Sticky Ads on one page. "
+"Read more about tools to increase CTR here"
+
+#: includes/views/adp-post-metabox.php:170
+msgid "Опубликовать"
+msgstr "Publish"
+
+#: includes/views/head.php:14
+msgid "Создать блок"
+msgstr "Add New Ads"
+
+#: includes/views/modules.php:18
+msgid "Управление модулями"
+msgstr "Module Management"
+
+#: includes/views/modules.php:31
+msgid "6 months"
+msgstr "6 months"
+
+#: includes/views/modules.php:31
+msgid "FREE"
+msgstr "FREE"
+
+#: includes/views/modules.php:41
+msgid "Согласен"
+msgstr "Accept"
+
+#: includes/views/modules.php:42
+msgid "условия использования"
+msgstr "terms & conditions"
+
+#: includes/views/modules.php:44
+msgid "Деактивировать"
+msgstr "Deactivate"
+
+#: includes/views/modules.php:44
+msgid "Активировать"
+msgstr "Activate"
+
+#: includes/views/modules.php:44
+msgid "Деактивировать"
+msgstr "Deactivate"
+
+#: includes/views/modules.php:60
+msgid "Деактивировать все"
+msgstr "Deactivate all"
+
+#: includes/views/settings.php:12
+msgid "Настройки успешно обновлены"
+msgstr "Settings Were Successfully Updated"
+
+#: includes/views/settings.php:25
+msgid "Показывать рекламу"
+msgstr "Display the advert"
+
+#: includes/views/settings.php:55
+msgid "Exclude CSS"
+msgstr "Exclude CSS"
+
+#: includes/views/settings.php:64
+msgid ""
+"By default, Post Ads are wrapped in a container that has some CSS to aid "
+"layout. Developers may wish to use their own CSS, and should check this "
+"Exclude CSS option."
+msgstr ""
+"By default, Post Ads are wrapped in a container with custom CSS. Many "
+"developers prefer customizing CSS. Make sure to enable \"Exclude CSS\"."
+
+#: includes/views/settings.php:70
+msgid "Сохранить настройки"
+msgstr "Save Settings"
+
+#~ msgid "Плагин для размещения рекламмных объявлений в контенте"
+#~ msgstr "The plugin to insert ads to the content"
+
+#~ msgid "ArtStudio"
+#~ msgstr "ArtStudio"
